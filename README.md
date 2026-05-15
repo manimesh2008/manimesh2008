@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Animesh Pratap Mishra</h1>
-<h3 align="center">AI Enthusiast | Python Developer | B.Tech Student</h3>
+<h3 align="center">AI Enthusiast | Python Developer | Open Source learner </h3>
 
 ---
 
