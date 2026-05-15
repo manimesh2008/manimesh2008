@@ -17,7 +17,7 @@ Currently exploring Artificial Intelligence, Data Science, and Full-stack Develo
 
 # 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/animesh-pratap-mishra-388b16354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishraanimeshpratap@gmail.com) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD_LINK) [![GSSoC](https://img.shields.io/badge/GSSoC-2025-orange?style=for-the-badge&logo=github&logoColor=white)](https://gssoc.girlscript.tech/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/animesh-pratap-mishra-388b16354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishraanimeshpratap@gmail.com) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD_LINK) [![GSSoC](https://img.shields.io/badge/GSSoC-2026-purple?style=for-the-badge&logo=github&logoColor=white)](https://gssoc.girlscript.tech/)
 
 ---
 
