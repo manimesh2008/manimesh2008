@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Animesh Mishra</h1>
+<h1 align="center">Hi 👋, I'm Animesh Pratap Mishra</h1>
 <h3 align="center">AI Enthusiast | Python Developer | B.Tech Student</h3>
 
 ---
